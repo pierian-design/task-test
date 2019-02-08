@@ -1,0 +1,9 @@
+.wptest_box{
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-row-gap: 10px;
+    grid-column-gap: 20px;
+}
+.wptest_field{
+    display: contents;
+}
